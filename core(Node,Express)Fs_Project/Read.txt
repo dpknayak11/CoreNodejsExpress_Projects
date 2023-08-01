@@ -1,3 +1,7 @@
 I Have used: MVC
 Html, CSS, JavaScript 
 NodeJs, ExpressJs,Ejs, Fs-Modal, 
+
+Show the product multi Routes,
+User Admin add products,
+Details, Remove, Edit(Update), add cart(dont show),
