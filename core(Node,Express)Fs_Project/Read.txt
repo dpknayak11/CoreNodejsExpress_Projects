@@ -1,0 +1,3 @@
+I Have used: MVC
+Html, CSS, JavaScript 
+NodeJs, ExpressJs,Ejs, Fs-Modal, 
